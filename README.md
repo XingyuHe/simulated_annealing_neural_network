@@ -1,11 +1,15 @@
 ### Get Started
 Download the repository
 ```
-git clone 
+git clone https://github.com/XingyuHe/simulated_annealing_neural_network
 ```
 Get to the working directory
 ```
 cd simulated_annealing_neural_network
+```
+Install libraries
+```
+pip install -r requirements.txt
 ```
 Download MNIST dataset into the directory
 ```
